@@ -58,3 +58,4 @@ Compositional Zero-Shot Learning" has been accepted.
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [CV](https://wangjinjin-java-ai.oss-cn-beijing.aliyuncs.com/CV_Xinshuo_Wang.pdf), China.
+- [CV](\image\CV_Xinshuo_Wang.pdf)
