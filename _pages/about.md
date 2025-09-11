@@ -45,16 +45,13 @@ Compositional Zero-Shot Learning" has been accepted.
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023* Scholarship for Freshmen, Outstanding Graduate, Third-Class School Scholarship.
+- *2022* First-Class School Scholarship, Merit Student.
+- *2021* First-Class School Scholarship, Merit Student, Encouragement Scholarship.
+- *2020* Encouragement Scholarship, Third Prize of National Mathematics Competition, Excellent League Membe.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - present*, New Generation Electronic Information Technology, School of Communication Engineering, 
+Xidian University.
+- *2019.09 - 2023.06*, Computer Science and Technology, School of Artificial Intelligence and Data Science, Hebei University of Technology.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-- *2019.05 - 2020.02*, [CV](https://wangjinjin-java-ai.oss-cn-beijing.aliyuncs.com/CV_Xinshuo_Wang.pdf), China.
-- [CV](\image\CV_Xinshuo_Wang.pdf)
