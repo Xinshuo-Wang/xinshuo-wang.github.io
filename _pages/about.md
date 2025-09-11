@@ -19,7 +19,7 @@ redirect_from:
 
 I received my Bachelor's degree in Computer Science and Technology from Hebei University of Technology, China. Currently, under the guidance of Professor Yang liu, I am pursuing a master's degree in next-generation electronic information technology at Xidian University.
 
-My research interest includes generative models and Transformer-based models, and I am also interested in large language models. 
+During my master's studies, I focused on compositional zero-shot learning (CZSL), and have made several contributions to this area.
 
 
 # 🔥 News
