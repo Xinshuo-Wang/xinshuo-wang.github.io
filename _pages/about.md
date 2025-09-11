@@ -30,25 +30,25 @@ Compositional Zero-Shot Learning" has been accepted.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/MCPM.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/MCPM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-level Contextual Prototype Modulation for Compositional Zero-shot Learning](https://ieeexplore.ieee.org/document/11104968)
 
 Yang Liu, **Xinshuo Wang**, Xinbo Gao, Jungong Han, Ling Shao
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We propose Multilevel Contextual Prototype Modulation (MCPM), a transformerbased framework with a hierarchical structure that effectively integrates attributes and objects to generate richer visual embeddings. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2025</div><img src='images/CA-GCN.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2025</div><img src='images/CA-GCN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Concept-Aware Graph Convolutional Network for Compositional Zero-Shot Learning](https://ieeexplore.ieee.org/document/10856526)
 
 Yang Liu, **Xinshuo Wang**, Xinbo Gao, Jungong Han, Ling Shao
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We proposed a concept-aware graph convolutional network (GCN) that utilizes cross-attentions to extract features unique to attributes and objects from paired concept-sharing inputs. 
 </div>
 </div>
 
