@@ -22,8 +22,6 @@ My research interests mainly focus on zero-shot learning, 3D reconstruction, ima
 
 During my master's studies, I focused on compositional zero-shot learning (CZSL), and have made several contributions to this area.
 
-And my 
-
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 Our work "Multi-level Contextual Prototype Modulation for
