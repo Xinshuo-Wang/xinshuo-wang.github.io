@@ -17,9 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Bachelor's degree in Computer Science and Technology from Hebei University of Technology, China. Currently, under the guidance of Professor Yang liu, I am pursuing a master's degree in next-generation electronic information technology at Xidian University.
+I received my Bachelor's degree in Computer Science and Technology from Hebei University of Technology, China. Currently, under the guidance of Professor Yang liu, I am pursuing a master's degree in next-generation electronic information technology at Xidian University. 
+My research interests mainly focus on zero-shot learning, 3D reconstruction, image recognition, and transformer-based models.
 
 During my master's studies, I focused on compositional zero-shot learning (CZSL), and have made several contributions to this area.
+
+And my 
 
 
 # 🔥 News
