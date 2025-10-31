@@ -55,6 +55,7 @@ Yang Liu, **Xinshuo Wang**, Xinbo Gao, Jungong Han, Ling Shao
 
 
 # 🎖 Honors and Awards
+- *2025* National Scholarship.
 - *2023* Scholarship for Freshmen, Outstanding Graduate, Third-Class School Scholarship.
 - *2022* First-Class School Scholarship, Merit Student.
 - *2021* First-Class School Scholarship, Merit Student, Encouragement Scholarship.
