@@ -30,6 +30,19 @@ Compositional Zero-shot Learning" has been accepted.
 Compositional Zero-Shot Learning" has been accepted.
 
 # 📝 Publications 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2026</div><img src='images/SN-CSDN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Semi-Negative Contrastive Subclass Discriminative Network for Compositional Zero-Shot Learning](https://ieeexplore.ieee.org/document/11433508)
+
+Yang Liu, **Xinshuo Wang**, Xinbo Gao, Jungong Han, Ling Shao
+
+- We propose a Semi-Negative Contrastive Subclass Discriminative Network (SN-CSDN) based on contrastive learning. 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/MCPM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -55,7 +68,8 @@ Yang Liu, **Xinshuo Wang**, Xinbo Gao, Jungong Han, Ling Shao
 
 
 # 🎖 Honors and Awards
-- *2025* National Scholarship.
+- *2026* Outstanding Graduate Student.
+- *2025* National Scholarship, First-Class School Scholarship.
 - *2023* Scholarship for Freshmen, Outstanding Graduate, Third-Class School Scholarship.
 - *2022* First-Class School Scholarship, Merit Student.
 - *2021* First-Class School Scholarship, Merit Student, Encouragement Scholarship.
