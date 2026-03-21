@@ -24,10 +24,9 @@ During my master's studies, I focused on compositional zero-shot learning (CZSL)
 
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 Our work "Multi-level Contextual Prototype Modulation for
-Compositional Zero-shot Learning" has been accepted.
-- *2025.01*: &nbsp;🎉🎉 Our work "Concept-Aware Graph Convolutional Network for
-Compositional Zero-Shot Learning" has been accepted.
+- *2026.03*: &nbsp;🎉🎉 Our work "Semi-Negative Contrastive Subclass Discriminative Network for Compositional Zero-Shot Learning" has been accepted.
+- *2025.07*: &nbsp;🎉🎉 Our work "Multi-level Contextual Prototype Modulation for Compositional Zero-shot Learning" has been accepted.
+- *2025.01*: &nbsp;🎉🎉 Our work "Concept-Aware Graph Convolutional Network for Compositional Zero-Shot Learning" has been accepted.
 
 # 📝 Publications 
 </div>
