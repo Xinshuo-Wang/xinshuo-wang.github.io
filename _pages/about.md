@@ -29,8 +29,6 @@ During my master's studies, I focused on compositional zero-shot learning (CZSL)
 - *2025.01*: &nbsp;🎉🎉 Our work "Concept-Aware Graph Convolutional Network for Compositional Zero-Shot Learning" has been accepted.
 
 # 📝 Publications 
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2026</div><img src='images/SN-CSDN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
