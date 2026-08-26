@@ -18,10 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I received my Bachelor's degree in Computer Science and Technology from Hebei University of Technology, China. Currently, under the guidance of Professor Yang liu, I am pursuing a master's degree in next-generation electronic information technology at Xidian University. 
-My research interests mainly focus on zero-shot learning, 3D reconstruction, image recognition, and transformer-based models.
-
 During my master's studies, I focused on compositional zero-shot learning (CZSL), and have made several contributions to this area.
 
+Currently, I am a first-year PhD student in Computer Science at the University of Illinois Chicago, advised by Professor Philip S. Yu. My research interests lie primarily in large language models (LLMs) and agentic AI.
 
 # 🔥 News
 - *2026.03*: &nbsp;🎉🎉 Our work "Semi-Negative Contrastive Subclass Discriminative Network for Compositional Zero-Shot Learning" has been accepted.
