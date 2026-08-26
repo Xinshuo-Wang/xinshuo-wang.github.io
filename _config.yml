@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinshuo Wang"
-description              : "New Next Generation Electronic Information Technology at Xidian University, China."
+description              : "Computer Science at the University of Illinois Chicago, US"
 repository               : "Xinshuo-Wang/xinshuo-wang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinshuo Wang"
   avatar           : "images/Snipaste_2025-08-14_14-43-17.png"
-  bio              : "Xidian University"
-  location         : "Xi'an, China"
+  bio              : "University of Illinois Chicago"
+  location         : "Chicago, US"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hHK9Ik0AAAAJ"
