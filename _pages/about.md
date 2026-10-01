@@ -20,7 +20,7 @@ redirect_from:
 I received my Bachelor's degree in Computer Science and Technology from Hebei University of Technology, China. Currently, under the guidance of Professor Yang liu, I am pursuing a master's degree in next-generation electronic information technology at Xidian University. 
 During my master's studies, I focused on compositional zero-shot learning (CZSL), and have made several contributions to this area.
 
-Currently, I am a first-year PhD student in Computer Science at the University of Illinois Chicago, advised by Professor Philip S. Yu (https://cs.uic.edu/profiles/philip-yu). My research interests lie primarily in large language models (LLMs) and agentic AI.
+Currently, I am a first-year PhD student in Computer Science at the University of Illinois Chicago, advised by [Professor Philip S. Yu](https://cs.uic.edu/profiles/philip-yu). I am a member of the [Big Data and Social Computing (BDSC) Lab](https://bdsc-uic.github.io/). My research interests lie broadly in large language models (LLMs) and agentic AI, with a particular focus on agent memory. I am also broadly interested in topics such as agent reasoning, retrieval, learning, and long-term adaptation.
 
 # 🔥 News
 - *2026.03*: &nbsp;🎉🎉 Our work "Semi-Negative Contrastive Subclass Discriminative Network for Compositional Zero-Shot Learning" has been accepted.
