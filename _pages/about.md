@@ -20,7 +20,7 @@ redirect_from:
 I received my Bachelor's degree in Computer Science and Technology from Hebei University of Technology, China. Currently, under the guidance of Professor Yang liu, I am pursuing a master's degree in next-generation electronic information technology at Xidian University. 
 During my master's studies, I focused on compositional zero-shot learning (CZSL), and have made several contributions to this area.
 
-Currently, I am a first-year PhD student in Computer Science at the University of Illinois Chicago, advised by Professor Philip S. Yu. My research interests lie primarily in large language models (LLMs) and agentic AI.
+Currently, I am a first-year PhD student in Computer Science at the University of Illinois Chicago, advised by Professor Philip S. Yu (https://cs.uic.edu/profiles/philip-yu). My research interests lie primarily in large language models (LLMs) and agentic AI.
 
 # 🔥 News
 - *2026.03*: &nbsp;🎉🎉 Our work "Semi-Negative Contrastive Subclass Discriminative Network for Compositional Zero-Shot Learning" has been accepted.
@@ -72,7 +72,8 @@ Yang Liu, **Xinshuo Wang**, Xinbo Gao, Jungong Han, Ling Shao
 - *2020* Encouragement Scholarship, Third Prize of National Mathematics Competition, Excellent League Membe.
 
 # 📖 Educations
-- *2023.09 - present*, New Generation Electronic Information Technology, School of Communication Engineering, 
+- *2026.08 - present*, computer science, University of Illinois Chicago.
+- *2023.09 - 2026.06*, New Generation Electronic Information Technology, School of Communication Engineering, 
 Xidian University.
 - *2019.09 - 2023.06*, Computer Science and Technology, School of Artificial Intelligence and Data Science, Hebei University of Technology.
 
